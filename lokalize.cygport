@@ -1,8 +1,10 @@
-inherit kde4
+inherit python kde4
 
 NAME="lokalize"
-VERSION=4.12.5
+VERSION=4.13.3
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="KDE gettext catalog editor"
 DESCRIPTION="Part of the KDE developer tools suite"
+
+REQUIRES="kross-python"
