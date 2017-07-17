@@ -1,7 +1,7 @@
 inherit python kf5
 
 NAME="lokalize"
-VERSION=16.08.3
+VERSION=17.04.3
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="KDE gettext catalog editor"
