@@ -1,10 +1,14 @@
 inherit python kf5
 
 NAME="lokalize"
-VERSION=17.04.3
-RELEASE=2
+VERSION=17.08.3
+RELEASE=1
 CATEGORY="Devel"
 SUMMARY="KDE gettext catalog editor"
-DESCRIPTION="Part of the KDE developer tools suite"
+DESCRIPTION="Lokalize is a computer-aided translation system that focuses on
+productivity and quality assurance.  It has components usually included in CAT
+tools like translation memory, glossary, and also a unique translation merging
+capability. It is targeted for software translation and also integrates external
+conversion tools for freelance office document translation."
 
 REQUIRES="kf5-kross-python"
